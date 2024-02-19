@@ -1,2 +1,5 @@
 # KlassyFurniture
 A website for Klassy Furniture a custom woodworking workshop
+/Photo by <a href="https://unsplash.com/@cekrek_7?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Yulianto</a> on <a href="https://unsplash.com/photos/person-in-black-shirt-sitting-on-brown-wooden-chair-EkbXDyDn7Fc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@ugmonk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jeff Sheldon</a> on <a href="https://unsplash.com/photos/brown-book-on-l-shape-ruler-beside-pen-JWiMShWiF14?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@pickawood?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pickawood</a> on <a href="https://unsplash.com/photos/yellow-and-black-marker-pen-on-brown-wooden-table-t7nJyxD4ERo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
